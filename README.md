@@ -11,3 +11,11 @@ https://cdn.jsdelivr.net/gh/ByteTu/CDN@main/js/axios@1.7.7.js
 https://cdn.jsdelivr.net/gh/ByteTu/CDN@main/css/element-plus@2.8.3.css
 
 ```
+
+### ghp.ci 加速服务
+
+```
+- 使用示例
+https://ghp.ci/https://raw.githubusercontent.com/ByteTu/CDN/main/js/axios@1.7.7.js
+https://ghp.ci/https://raw.githubusercontent.com/ByteTu/CDN/main/css/element-plus@2.8.3.css
+```
